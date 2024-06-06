@@ -1,0 +1,104 @@
+{
+    "name": "TestChipOneConfig",
+    "rowCount": 30,
+    "columnCount": 50,
+    "columnWidth": [
+        50,
+        50,
+        80,
+        50,
+        50,
+        50
+    ],
+    "rowHeight": [
+        10,
+        10,
+        10,
+        20,
+        10,
+        30
+    ],
+    "itemRegions": [
+        {
+            "itemType": "IO",
+            "itemWidth": 10,
+            "itemHeight": 10,
+            "regions": [
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+				}
+            ]
+        },
+        {
+            "itemType": "BRAM",
+            "itemWidth": 10,
+            "itemHeight": 10,
+            "regions": [
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+                }
+            ]
+        },
+        {
+            "itemType": "DSP",
+            "itemWidth": 10,
+            "itemHeight": 10,
+            "regions": [
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 5,
+                        "row": 2
+                    },
+                    "positionEnd": {
+                        "column": 5,
+                        "row": 2
+                    }
+                }
+            ]
+        }
+    ]
+}

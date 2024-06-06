@@ -1,0 +1,553 @@
+{
+    "name": "Test",
+    "rowCount": 37,
+    "columnCount": 50,
+    "columnWidth": 3000,
+    "rowHeight": 3000,
+    "lineOffset": [
+        {
+            "directionType": 0,
+            "index": 18,
+            "offset": 3000
+        },
+        {
+            "directionType": "EEshorten",
+            "index": 24,
+            "offset": -3000
+        },
+        {
+            "directionType": "WWshorten",
+            "index": 25,
+            "offset": -3000
+        }
+    ],
+    "itemRegions": [
+        {
+            "itemType": "SWH",
+            "itemWidth": 10,
+            "itemHeight": 10,
+            "regions": [
+                {
+                    "positionStart": {
+                        "column": 0,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 0,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 0,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 0,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 2,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 2,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 2,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 2,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 4,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 4,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 4,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 4,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 6,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 6,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 6,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 6,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 8,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 8,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 8,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 8,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 10,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 10,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 10,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 10,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 12,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 12,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 12,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 12,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 14,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 14,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 14,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 14,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 16,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 16,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 16,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 16,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 18,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 18,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 18,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 18,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 20,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 20,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 20,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 20,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 22,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 22,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 22,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 22,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 24,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 24,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 24,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 24,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 25,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 25,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 25,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 25,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 27,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 27,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 27,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 27,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 29,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 29,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 29,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 29,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 31,
+                        "row": 0
+                    },
+                    "positionEnd": {
+                        "column": 31,
+                        "row": 17
+                    }
+                },
+                {
+                    "positionStart": {
+                        "column": 31,
+                        "row": 19
+                    },
+                    "positionEnd": {
+                        "column": 31,
+                        "row": 36
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 33,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 33,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 33,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 33,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 35,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 35,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 35,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 35,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 37,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 37,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 37,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 37,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 39,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 39,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 39,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 39,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 41,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 41,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 41,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 41,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 43,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 43,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 43,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 43,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 45,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 45,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 45,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 45,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 47,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 47,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 47,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 47,
+                        "row": 19
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 49,
+                        "row": 17
+                    },
+                    "positionStart": {
+                        "column": 49,
+                        "row": 0
+                    }
+                },
+                {
+                    "positionEnd": {
+                        "column": 49,
+                        "row": 36
+                    },
+                    "positionStart": {
+                        "column": 49,
+                        "row": 19
+                    }
+                }
+            ]
+        }
+    ]
+}
